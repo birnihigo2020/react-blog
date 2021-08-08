@@ -1,11 +1,11 @@
 {
-  "name": "argon-design-system-react",
-  "version": "1.1.0",
-  "description": "React version of Argon Design System by Creative Tim",
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "Personal blog implemented with React and template from Creative Tim",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
+    "url": "git+https://github.com/birnihigo2020/react-blog.git"
   },
   "keywords": [
     "react",
@@ -22,15 +22,17 @@
     "argon-design-system-react",
     "design-system-react"
   ],
-  "author": "Creative Tim",
+  "author": "Birnihigo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
+    "url": "https://github.com/birnihigo2020/react-blog/issues"
   },
-  "homepage": "https://demos.creative-tim.com/argon-design-system-react/",
+  "homepage": "https://birnihigo2020.github.io/react-blog/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
@@ -67,6 +69,7 @@
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "16.9.19",
     "eslint-plugin-flowtype": "3.13.0",
+    "gh-pages": "^3.2.3",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
     "jquery": "3.4.1",
