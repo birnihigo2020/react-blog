@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8045214d1e4e16b07f3b463c1fb9641e",
+    "revision": "066f4fe01776e8341ecd920473d7ebce",
     "url": "/react-blog/index.html"
   },
   {
-    "revision": "912b334f103a696bcc98",
+    "revision": "464e2bcba6a24907ad76",
     "url": "/react-blog/static/css/main.7895ad5d.chunk.css"
   },
   {
-    "revision": "b66ae9563da61147e2b1",
-    "url": "/react-blog/static/js/2.f6b454f7.chunk.js"
+    "revision": "ceff6eff3f8e585dfa17",
+    "url": "/react-blog/static/js/2.ac8dfa23.chunk.js"
   },
   {
-    "revision": "6904dfd75471649aa9b5801f3774a8c5",
-    "url": "/react-blog/static/js/2.f6b454f7.chunk.js.LICENSE.txt"
+    "revision": "402769e0fde7682650babf6b5720df16",
+    "url": "/react-blog/static/js/2.ac8dfa23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "912b334f103a696bcc98",
-    "url": "/react-blog/static/js/main.755dcb93.chunk.js"
+    "revision": "464e2bcba6a24907ad76",
+    "url": "/react-blog/static/js/main.60798973.chunk.js"
   },
   {
     "revision": "7a6956e196ccd2e4ccc8856708b02847",
-    "url": "/react-blog/static/js/main.755dcb93.chunk.js.LICENSE.txt"
+    "url": "/react-blog/static/js/main.60798973.chunk.js.LICENSE.txt"
   },
   {
     "revision": "0bca87922476c71d01b6",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f38ddea9dedadea03c5d43c596dac13f",
     "url": "/react-blog/static/media/argon-react.f38ddea9.png"
-  },
-  {
-    "revision": "f7cb2d390498c2969b2b1050f3e024ce",
-    "url": "/react-blog/static/media/creativetim-white-slim.f7cb2d39.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -76,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-blog/static/media/img-1-1200x1000.1e7c70dc.jpg"
   },
   {
-    "revision": "ba449a0697388668ef05e043ffdeafca",
-    "url": "/react-blog/static/media/img-2-1200x1000.ba449a06.jpg"
-  },
-  {
     "revision": "0ec264785c9b6efbed2651d84105f436",
     "url": "/react-blog/static/media/landing.0ec26478.jpg"
+  },
+  {
+    "revision": "3d7dc9dd997a8c24f117c7f0f68dbf50",
+    "url": "/react-blog/static/media/my-logo.3d7dc9dd.png"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
