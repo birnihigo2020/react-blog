@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the first page of my React Blog
+          This is the second page of my React Blog
         </p>
       </header>
     </div>
