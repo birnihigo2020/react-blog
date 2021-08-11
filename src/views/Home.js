@@ -18,7 +18,7 @@
 import React from "react";
 
 // reactstrap components
-import { Container, Row } from "reactstrap";
+import { Container, Carousel } from "reactstrap";
 
 // core components
 import BlogNavbar from "components/Navbars/BlogNavbar.js";
@@ -36,9 +36,7 @@ class Home extends React.Component {
         <BlogNavbar />
         <main ref="main">
             <Container>
-                <Row>
-                    <p> This is the main content </p>
-                </Row>
+              <Carousel />
             </Container>
         </main>
         <CardsFooter />
