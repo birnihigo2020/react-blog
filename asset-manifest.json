@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-blog/static/css/main.7895ad5d.chunk.css",
-    "main.js": "/react-blog/static/js/main.60798973.chunk.js",
-    "main.js.map": "/react-blog/static/js/main.60798973.chunk.js.map",
+    "main.js": "/react-blog/static/js/main.4ff94d69.chunk.js",
+    "main.js.map": "/react-blog/static/js/main.4ff94d69.chunk.js.map",
     "runtime-main.js": "/react-blog/static/js/runtime-main.796b35e1.js",
     "runtime-main.js.map": "/react-blog/static/js/runtime-main.796b35e1.js.map",
-    "static/js/2.ac8dfa23.chunk.js": "/react-blog/static/js/2.ac8dfa23.chunk.js",
-    "static/js/2.ac8dfa23.chunk.js.map": "/react-blog/static/js/2.ac8dfa23.chunk.js.map",
+    "static/js/2.31af2a45.chunk.js": "/react-blog/static/js/2.31af2a45.chunk.js",
+    "static/js/2.31af2a45.chunk.js.map": "/react-blog/static/js/2.31af2a45.chunk.js.map",
     "index.html": "/react-blog/index.html",
-    "precache-manifest.849b2a83b5a34687cd924408fe3b0290.js": "/react-blog/precache-manifest.849b2a83b5a34687cd924408fe3b0290.js",
+    "precache-manifest.fafc3a6d05f7572345abb642e0aa226d.js": "/react-blog/precache-manifest.fafc3a6d05f7572345abb642e0aa226d.js",
     "service-worker.js": "/react-blog/service-worker.js",
     "static/css/main.7895ad5d.chunk.css.map": "/react-blog/static/css/main.7895ad5d.chunk.css.map",
-    "static/js/2.ac8dfa23.chunk.js.LICENSE.txt": "/react-blog/static/js/2.ac8dfa23.chunk.js.LICENSE.txt",
-    "static/js/main.60798973.chunk.js.LICENSE.txt": "/react-blog/static/js/main.60798973.chunk.js.LICENSE.txt",
+    "static/js/2.31af2a45.chunk.js.LICENSE.txt": "/react-blog/static/js/2.31af2a45.chunk.js.LICENSE.txt",
+    "static/js/main.4ff94d69.chunk.js.LICENSE.txt": "/react-blog/static/js/main.4ff94d69.chunk.js.LICENSE.txt",
     "static/media/argon-react-white.png": "/react-blog/static/media/argon-react-white.275a2629.png",
     "static/media/argon-react.png": "/react-blog/static/media/argon-react.f38ddea9.png",
     "static/media/font-awesome.min.css": "/react-blog/static/media/fontawesome-webfont.fee66e71.woff",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.796b35e1.js",
-    "static/js/2.ac8dfa23.chunk.js",
+    "static/js/2.31af2a45.chunk.js",
     "static/css/main.7895ad5d.chunk.css",
-    "static/js/main.60798973.chunk.js"
+    "static/js/main.4ff94d69.chunk.js"
   ]
 }
