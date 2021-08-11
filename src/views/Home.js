@@ -18,7 +18,8 @@
 import React from "react";
 
 // reactstrap components
-import { Container, Carousel } from "reactstrap";
+import { Container } from "reactstrap";
+import Carousel from "./IndexSections/Carousel.js";
 
 // core components
 import BlogNavbar from "components/Navbars/BlogNavbar.js";
